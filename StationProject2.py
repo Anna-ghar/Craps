@@ -18,6 +18,7 @@ def game():
         return "You lose."
 
     goal = first_roll
+    
     print(f"Goal is {goal}")
 
     while True:
